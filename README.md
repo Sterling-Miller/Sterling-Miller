@@ -4,8 +4,9 @@ I'm a soon-to-be graduate from the University of Oregon, earning a Bachelor of S
 
 ## 🔧 Skills & Interests
 
-- **Programming Languages:** Python, C, C++, React, Node, JavaScript, CSS, HTML
-- **Areas of Expertise:** Software engineering, network & system security, operating systems, machine learning, system modeling
+- **Programming Languages:** Python, C, C++, JavaScript
+- **Web Development:** React, Node.js, Next.js, Firebase, Vite, Vercel, CSS, HTML
+- **Other Areas of Experience:** Software engineering, network & system security, operating systems, machine learning, system modeling
 - **Soft Skills:** Collaborative development, project planning, testing, deployment
 
 ## 🛠️ Projects
