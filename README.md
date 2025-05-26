@@ -17,10 +17,6 @@ I'm a soon-to-be graduate from the University of Oregon, earning a Bachelor of S
 - **Soft Skills:**
   - Collaborative development, project planning, testing and deployment
 
-## 🛠️ Projects
-
-- Feel free to checkout the repositories I've worked on in the past! More to come in the future!
-
 ## 📫 Let's Connect
 
 - I'm always open to discussing new opportunities and collaborations! My contatact information is located on my [website](https://www.sterling-miller.tech/), please feel free to reach out.
