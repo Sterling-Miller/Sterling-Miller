@@ -6,19 +6,21 @@ I'm a soon-to-be graduate from the University of Oregon, earning a Bachelor of S
 
 - **Programming Languages & Frameworks:**
   - Python, C, C++, JavaScript, TypeScript
-  - Next.js, Node.js, Astro, Tailwind CSS, React, Flask
-- **Backend and Databases:**
+  - Next.js, Astro, Tailwind CSS, Flask
+- **Frontend and Backend:**
+  - React, Node.js, Material UI
   - Firebase, NextAuth.js, Drizzle ORM
+- **Databases**
   - Firebase Firestore, Neon Postgress, MongoDB
-- **Other Areas of Experience:**
+- **Other Areas of Interest:**
   - Software engineering, network & system security, operating systems, machine learning, system modeling
 - **Soft Skills:**
-  - Collaborative development, project planning, testing, deployment
+  - Collaborative development, project planning, testing and deployment
 
 ## 🛠️ Projects
 
-- Feel free to checkout the repositories I've worked on in the past! Many more to come in the future!
+- Feel free to checkout the repositories I've worked on in the past! More to come in the future!
 
 ## 📫 Let's Connect
 
-- I'm always open to discussing new opportunities and collaborations! Please feel free to reach out.
+- I'm always open to discussing new opportunities and collaborations! My contatact information is located on my website, please feel free to reach out.
