@@ -23,4 +23,4 @@ I'm a soon-to-be graduate from the University of Oregon, earning a Bachelor of S
 
 ## 📫 Let's Connect
 
-- I'm always open to discussing new opportunities and collaborations! My contatact information is located on my website, please feel free to reach out.
+- I'm always open to discussing new opportunities and collaborations! My contatact information is located on my [website](https://www.sterling-miller.tech/), please feel free to reach out.
