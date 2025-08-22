@@ -14,5 +14,3 @@ I'm a graduate of the University of Oregon with a B.S. in Computer Science and a
   - Firebase Firestore, Neon Postgress, MongoDB
 - **Other Areas of Interest:**
   - Machine learning, network & system security, system modeling
-- **Soft Skills:**
-  - Collaborative development, project planning, testing and deployment
